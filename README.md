@@ -28,7 +28,7 @@ This is a **simple chat application** built using **Socket.IO** where users can 
 - **Node.js**  
 - **Express.js** 
 - **Socket.IO**
-- **React
+- React
 
 ---
 
@@ -42,8 +42,8 @@ This is a **simple chat application** built using **Socket.IO** where users can 
 
 ## Future Enhancements
 
-- **Add user authentication.
-- **Support private messaging.
-- **Store chat history in a database.
-- **Add notifications for new messages.
+- Add user authentication.
+- Support private messaging.
+- Store chat history in a database.
+- Add notifications for new messages.
 
